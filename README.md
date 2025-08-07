@@ -1,4 +1,4 @@
-🧠What is VeriHeal?
+## 🧠What is VeriHeal?
 VeriHeal is a privacy-preserving health-tech app that empowers individuals to access subsidized, 
 stigma-free, or insurance-backed healthcare without compromising their identity or sensitive medical history.
 
@@ -22,6 +22,34 @@ showing how **insurance systems often fail the most vulnerable** — not due to 
 4. **Web3-Ready Future:**
     Badges can plug into decentralized health insurance, DAOs, and ZK claim systems unlocking new care models.
     Users can **opt-in anonymously.**
+
+
+**🌟 Key Features**
+🔐 Privacy-Preserving Access
+Users can prove eligibility without revealing personal or medical details
+
+Supports anonymous onboarding and participation
+
+🏅 Verifiable Health Badges
+-Users receive non-invasive proof of effort (e.g., “in recovery”) as NFTs or hashes
+-NGOs, alt-insurers, or DAOs can verify without accessing full history
+
+🧾 Selective Disclosure (ZK Proofs)
+-Uses zkTLS to allow eligibility claims without data exposure
+-Enables zero-knowledge interactions in health verification
+
+👛 Wallet Integration
+-Connects to XION wallets using Dave Toolkit SDK
+-Designed for decentralized identity and proof-of-claim systems
+
+🧑‍⚕️ Admin Panel (Planned)
+-Admins (doctors, NGOs, or DAO mods) can approve or reject badge applications
+-Protects against fake claims while maintaining privacy
+
+🧬 Support for Vulnerable Groups
+
+🌐 Web3-Ready Design
+All proofs and badges are interoperable with DAOs, claim systems, and decentralized insurance
 
 🌐 Live Links
 
@@ -79,6 +107,15 @@ OR
 - ⏳ Live MVP demo with DAO interaction
 
 
-   
-
+**TECHNOLOGY**  -
+| Technology / Tools  |
+| ------------------- | --------------------------------------------------------- |
+| **Frontend**        | React Native, Expo, Tailwind CSS (via NativeWind)         |
+| **Authentication**  | Supabase (Email/Password, Google OAuth)  (2)              |
+| **Wallet Connect**  | XION Dave Toolkit SDK (2 + 3)                             |
+| **ZK Verification** | zkTLS (Zero-Knowledge TLS Proofs)                         |
+| **Badge System**    | NFT-style or hash-based verifiable credentials 
+                        (Planned,rn only stimulation)   |                    
+| **Build & Deploy**  | Expo Go, QR APK sharing                                   |
+| **Version Control** | Git, GitHub                                               |
 
