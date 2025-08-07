@@ -13,7 +13,7 @@ showing how **insurance systems often fail the most vulnerable** — not due to 
 
 ### How VeriHeal Helps
 
-1. **Selective Disclosure:**
+1. **Selective Disclosure:**<br>
     Users prove eligibility (e.g., “In Recovery/Suffering from so & so”) without exposing full medical records & enabling support without stigma.
 2. **Trustworthy Proofs for Aid:** 
     NGOs, gov programs, or alt-insurers can verify someone's health journey via badges, not invasive data.
@@ -24,7 +24,7 @@ showing how **insurance systems often fail the most vulnerable** — not due to 
     Users can **opt-in anonymously.**
 
 
-**🌟 Key Features**
+**🌟 Key Features** <br>
 1.Privacy-Preserving Access
 Users can prove eligibility without revealing personal or medical details
 
@@ -54,8 +54,10 @@ All proofs and badges are interoperable with DAOs, claim systems, and decentrali
 🔗 Project Submission: https://shorturl.at/B3hOd
 📹 Demo Video: https://www.youtube.com/watch?v=O82pc1ZsBcY&feature=youtu.be
 
+
 🏗️ Architecture
 <img width="1424" height="704" alt="Architecture of XION" src="https://github.com/user-attachments/assets/39ebd62e-2103-4b31-97ee-95ec3e90919d" />
+
 
 ### ⚙️ Run Locally
 
@@ -64,15 +66,15 @@ All proofs and badges are interoperable with DAOs, claim systems, and decentrali
 - Expo CLI
 - Git
 
-bash
-git clone https://github.com/e-esakman/VeriHeal-XION.git
-cd VeriHeal-XION
+bash<br>
+git clone https://github.com/e-esakman/VeriHeal-XION.git<br>
+cd VeriHeal-XION<br>
 
-Install dependencies
-npm install
+Install dependencies<br>
+npm install<br>
 
-Start Expo 
-npx expo start
+Start Expo <br>
+npx expo start<br>
 
 Test Apk yourself!
 1. Visit the site to install the App - https://expo.dev/accounts/muffinlearns/projects/VeriHealApp/builds/a708b732-bbe8-4707-aec4-ae29094907b4
@@ -106,14 +108,14 @@ OR
 
 
 **TECHNOLOGY**  -
-| Technology / Tools  |
-| ------------------- | --------------------------------------------------------- |
-| **Frontend**        | React Native, Expo, Tailwind CSS (via NativeWind)         |
-| **Authentication**  | Supabase (Email/Password, Google OAuth)  (2)              |
-| **Wallet Connect**  | XION Dave Toolkit SDK (2 + 3)                             |
-| **ZK Verification** | zkTLS (Zero-Knowledge TLS Proofs)                         |
-| **Badge System**    | NFT-style or hash-based verifiable credentials 
-                        (Planned,rn only stimulation)   |                    
-| **Build & Deploy**  | Expo Go, QR APK sharing                                   |
-| **Version Control** | Git, GitHub                                               |
+| Technology / Tools  |<br>
+| ------------------- | --------------------------------------------------------- |<br>
+| **Frontend**        | React Native, Expo, Tailwind CSS (via NativeWind)         |<br>
+| **Authentication**  | Supabase (Email/Password, Google OAuth)  (2)              |<br>
+| **Wallet Connect**  | XION Dave Toolkit SDK (2 + 3)                             |<br>
+| **ZK Verification** | zkTLS (Zero-Knowledge TLS Proofs)                         |<br>
+| **Badge System**    | NFT-style or hash-based verifiable credentials <br>
+                        (Planned,rn only stimulation)   |                    <br>
+| **Build & Deploy**  | Expo Go, QR APK sharing                                   |<br>
+| **Version Control** | Git, GitHub                                               |<br>
 
