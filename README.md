@@ -31,36 +31,54 @@ showing how **insurance systems often fail the most vulnerable** — not due to 
 🏗️ Architecture
 <img width="1424" height="704" alt="Architecture of XION" src="https://github.com/user-attachments/assets/39ebd62e-2103-4b31-97ee-95ec3e90919d" />
 
-Run locally as - 
-1. Clone the repo
+### ⚙️ Run Locally
+
+#### 🛠️ Prerequisites
+- Node.js
+- Expo CLI
+- Git
+
+bash
 git clone https://github.com/e-esakman/VeriHeal-XION.git
 cd VeriHeal-XION
-2. Install dependencies
+
+Install dependencies
 npm install
-3. Start Expo
+
+Start Expo 
 npx expo start
 
-How to download the VeriHeal APK
+Test Apk yourself!
 1. Visit the site to install the App - https://expo.dev/accounts/muffinlearns/projects/VeriHealApp/builds/a708b732-bbe8-4707-aec4-ae29094907b4
 OR
 2. Scan the QR Code to download it
    <img width="481" height="556" alt="VeriHeal QR code" src="https://github.com/user-attachments/assets/153757b8-b155-4068-9180-7514c62ef9f3" />
 
- WORKING OF THE PROJECT
--**For CHECKPOINT 1
-     -UI design of the App, requires a bit of polishing
-     -Created Stimulation of XION DAVE TOOLKIT, zKTLS & On-chain badges Hash code
-     -Due to short time, i published the app mockup build on Expo
-     
-- **Short-Term (Checkpoint 2)**:
-    - Add Supabase backend for login, user data, and badges.
-    - Replace simulated XION Dave Toolkit integration with real SDK.
-    - Add placeholder for ZK backend connection.
- 
-  - **Long-Term (Checkpoint 3)**:
-    - Real on-chain ZK proof verification using ZK Oracles.
-    - Mint privacy-respecting NFTs or on-chain badges.
-    - Enable NGO/DAO simulation to validate badges and issue aid/subsidies
+## ✅ Project Status
+
+### ✅ Checkpoint 1 (Done)
+- ✅ UI screens for splash, onboarding, wallet, and dashboard
+- ✅ Mocked UI for login and flow
+- ✅ Simulated badge system and zktls verification
+- ✅ Expo APK build
+
+### 🚧 Checkpoint 2 (Current)
+- 🔄 Email/password + Google OAuth (Supabase)
+- 🔄 Real wallet connect (Dave SDK)
+- 🔄 Real zktls verification integration
+- 🔄 Verifiable badge issuing (NFT/hash style)
+- 🔄 Admin panel for badge approval
+- 🔄 Onchain proof logic diagrams
+- 🔄 GitHub repo live with Supabase schema
+
+### 🧩 Checkpoint 3 (Planned)
+- ⏳ Save proof/hash on Badges
+- ⏳ Add badge export/share options (QR, URL)
+- ⏳ Connect wallet + health logic in Supabase
+- ⏳ Build smart contract (optional)
+- ⏳ Live MVP demo with DAO interaction
+
+
    
 
 
