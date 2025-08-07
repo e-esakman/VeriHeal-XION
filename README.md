@@ -25,30 +25,28 @@ showing how **insurance systems often fail the most vulnerable** — not due to 
 
 
 **🌟 Key Features**
-🔐 Privacy-Preserving Access
+1.Privacy-Preserving Access
 Users can prove eligibility without revealing personal or medical details
 
 Supports anonymous onboarding and participation
 
-🏅 Verifiable Health Badges
+2.Verifiable Health Badges
 -Users receive non-invasive proof of effort (e.g., “in recovery”) as NFTs or hashes
 -NGOs, alt-insurers, or DAOs can verify without accessing full history
 
-🧾 Selective Disclosure (ZK Proofs)
+3.Selective Disclosure (ZK Proofs)
 -Uses zkTLS to allow eligibility claims without data exposure
 -Enables zero-knowledge interactions in health verification
 
-👛 Wallet Integration
+4. Wallet Integration
 -Connects to XION wallets using Dave Toolkit SDK
 -Designed for decentralized identity and proof-of-claim systems
 
-🧑‍⚕️ Admin Panel (Planned)
+5. Admin Panel (Planned)
 -Admins (doctors, NGOs, or DAO mods) can approve or reject badge applications
 -Protects against fake claims while maintaining privacy
 
-🧬 Support for Vulnerable Groups
-
-🌐 Web3-Ready Design
+6- Web3-Ready Design
 All proofs and badges are interoperable with DAOs, claim systems, and decentralized insurance
 
 🌐 Live Links
