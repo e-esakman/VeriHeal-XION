@@ -52,7 +52,7 @@ Test Apk yourself!
 1. Visit the site to install the App - https://expo.dev/accounts/muffinlearns/projects/VeriHealApp/builds/a708b732-bbe8-4707-aec4-ae29094907b4
 OR
 2. Scan the QR Code to download it
-   <img width="481" height="556" alt="VeriHeal QR code" src="https://github.com/user-attachments/assets/153757b8-b155-4068-9180-7514c62ef9f3" />
+   <img width="320" height="412" alt="VeriHeal QR code" src="https://github.com/user-attachments/assets/153757b8-b155-4068-9180-7514c62ef9f3" />
 
 ## ✅ Project Status
 
